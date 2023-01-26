@@ -59,13 +59,7 @@ If you want to connect your local computer to amazon fraud detector, follow the 
 After finishing setting credentials, you can connect amazon fraud detector through "import boto3" in your jupyter notebook.
 
 
-<h2>Other Resources</h2>
 
-[Handout](https://www.google.com)
-
-[Presentation Slide](https://onedrive.live.com/view.aspx?resid=9AC853B097999F6!174&ithint=file%2cpptx&authkey=!AMtljLTpRXU3CG0)
-
-[Presentation Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
