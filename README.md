@@ -1,6 +1,6 @@
 # For all your Fraud Solutions: Amazon Fraud Detector
 
-<h1>Trends Marketplace - Team 12</h1>
+
 One problem with traditional fraud detection techniques is that they often rely on fixed business rules that can be easily evaded by savvy fraudsters. Amazon Fraud Detector is a fully managed service that uses machine learning to automatically identify potentially fraudulent activities online. This service builds on Amazon's 20 years of fraud detection expertise and allows users to quickly and easily build customized fraud detection models with no prior machine learning experience. Amazon Fraud Detector can even detect fraud in real-time, such as new account fraud and loyalty program abuse. With this service, businesses can effectively combat fraud and keep their operations running smoothly
 
 
